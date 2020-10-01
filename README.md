@@ -1,4 +1,4 @@
-# grunt-html-snapshot
+# grunt-html-snapshot-An Awesome Project To work on
 
 > Makes it easy to provide html snapshots for client side applications so that they can be indexed by web crawlers
 
